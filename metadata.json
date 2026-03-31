@@ -1,0 +1,7 @@
+{
+  "name": "Z-CORE Medical Ecosystem",
+  "description": "Infrastructure souveraine intégrant IA Parkinson Logic, IA122 Terminal et MedicalTrackerPro34 pour le suivi clinique avancé.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
